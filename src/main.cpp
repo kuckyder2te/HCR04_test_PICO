@@ -2,7 +2,7 @@
   Test Sketch for sonic sensor HCSR04
   and Sensor DHT22
 
-  Name: HCSR_tset_PICO
+  Name: HCSR_test_PICO
   Autor: Wilhelm Kuckelsberg
   Date: 05-02-2023
 */
